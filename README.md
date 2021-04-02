@@ -2,7 +2,7 @@
 
 https://www.instagram.com/v.o.l.o.d.y.m.y.r_/
 
-![GitHub Logo](/images/logo.png)
+![Instagram Logo](inst.png)
 Format: ![Alt Text](url)
 
 - :wave: Hi, I’m Volodymyr
