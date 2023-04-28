@@ -8,9 +8,9 @@ https://www.instagram.com/v.o.l.o.d.y.m.y.r_/
 
 Languages: JS TS
 
-Frontend skills: React.js Next.js TailwindCSS MUI Mantine
+*Frontend skills:* __React.js Next.js TailwindCSS MUI Mantine__
 
-Backend skills: Node.js Nest.js MongoDB mongoose
+*Backend skills:* __Node.js Nest.js MongoDB mongoose GraphQL REST api__
 
 
 <!---
