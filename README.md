@@ -7,7 +7,9 @@ https://www.instagram.com/v.o.l.o.d.y.m.y.r_/
 - Middle Software Engineer
 
 Languages: JS TS
+
 Frontend skills: React.js Next.js TailwindCSS MUI Mantine
+
 Backend skills: Node.js Nest.js MongoDB mongoose
 
 
